@@ -1,0 +1,9 @@
+[package]
+name = "simple-text-pattern"
+version = "0.1.0"
+authors = ["Mikhail Svetov <svmk-tmsk@yandex.ru>"]
+edition = "2018"
+description = "Matching simple text patterns."
+license = "MIT"
+readme="README.md"
+repository = "https://github.com/svmk/simple-text-pattern"
