@@ -1,5 +1,7 @@
-[![Build Status](https://travis-ci.com/svmk/simple-text-pattern.svg?branch=master)](https://travis-ci.com/svmk/simple-text-pattern)
-[![](https://meritbadge.herokuapp.com/regex)](https://crates.io/crates/simple-text-pattern)
+[![Travis Build Status](https://travis-ci.org/svmk/simple-text-pattern.svg?branch=master)](https://travis-ci.org/svmk/simple-text-pattern)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![crates.io](https://meritbadge.herokuapp.com/simple-text-pattern)](https://crates.io/crates/simple-text-pattern)
+[![Released API docs](https://docs.rs/simple-text-pattern/badge.svg)](https://docs.rs/simple-text-pattern)
 
 # Rust simple text pattern library
 
